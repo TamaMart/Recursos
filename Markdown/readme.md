@@ -21,8 +21,12 @@
 ``` Para hacer cursiva *ffff* , para hacer negrita **ffff**, para hacer negrita y cursiva ***fffff***  ```
 
 ## generar lineas divisorias
+
+``` para hacer lineas divisorias utilizar --- o ___ ```
+
 ---
 ___
+
 
 # Video link 
 ### lofi
@@ -33,3 +37,12 @@ ___
 ```md
 [![Alt text](https://img.youtube.com/vi/jfKfPfyJRdk/0.jpg)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 ```
+
+# Imagen link
+
+## ejemplo
+![JavaScripts](https://assets.isu.pub/document-structure/201127075218-eea76b976de7b8a66af37cd950dbbd4d/v1/ace2b39d5d3fe9064ccffa2d4281eadd.jpg?width=720&quality=85%2C50)
+
+> ejemplo de como colocar una imagen
+
+ ```![JavaScripts](https://assets.isu.pub/document-structure/201127075218-eea76b976de7b8a66af37cd950dbbd4d/v1/ace2b39d5d3fe9064ccffa2d4281eadd.jpg?width=720&quality=85%2C50)```
