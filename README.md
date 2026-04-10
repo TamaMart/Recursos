@@ -5,6 +5,6 @@ Recursos de aprendizaje en tecnología
 
 - [Recursos Markdwon](Markdown/readme.md) 
 
-- [Recursos Python](Python/README.md)
+- [Recursos Python](Python/Readme.md)
 
 - [Recursos vsCode](vsCode/README.md)
