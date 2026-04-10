@@ -1,9 +1,11 @@
 # Prueba 
+``` Se utiliza  # para agrandar letras o hacer mas pequeñas las letras ```
 ## Prueba 
 ### Prueba 
 
 
 ## lista
+Para hacer lista utilizamos ```*```
 * rojo
 * naranjo
 * azul
@@ -12,7 +14,7 @@
 
 ## **lista 2**
 
-**texto en negrita**
+``` **texto en negrita**``` ``` *texto en cursiva*``` ```~~texto tachado~~``` ```***texto negrita y cursiva***```
 1. **mesa**
 2. **manzana**
 3. *silla*
