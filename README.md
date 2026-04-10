@@ -1,8 +1,10 @@
-# Recursos
+# RECURSOS
 Recursos de aprendizaje en tecnología 
 
-INDICE
+## INDICE
 
-[Recursos Markdwon](Markdown/readme.md) 
+- [Recursos Markdwon](Markdown/readme.md) 
 
-[Recursos Python](Python)
+- [Recursos Python](Python/README.md)
+
+- [Recursos vsCode](vsCode/README.md)
