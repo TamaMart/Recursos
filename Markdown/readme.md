@@ -1,5 +1,6 @@
-# Prueba 
+
 ``` Se utiliza  # para agrandar letras o hacer mas pequeñas las letras ```
+# Prueba 
 ## Prueba 
 ### Prueba 
 
@@ -19,6 +20,7 @@ Para hacer lista utilizamos ```*```
 2. **manzana**
 3. *silla*
    1. ***silla***
+4. ~~pera~~
 
 ``` Para hacer cursiva *ffff* , para hacer negrita **ffff**, para hacer negrita y cursiva ***fffff***  ```
 
