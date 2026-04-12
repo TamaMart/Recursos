@@ -3,9 +3,7 @@
 El bucle **while** en Python repite un bloque de código continuamente mientras una condición sea verdadera (True). 
 Se utiliza cuando no se conoce de antemano el número exacto de iteraciones. La condición se evalúa antes de cada iteración, y el bucle termina cuando se vuelve falsa (False).
 
-
-
-
+* Ejemplo:
 
 ``` python
 contrasena = "meli"
