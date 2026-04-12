@@ -2,16 +2,16 @@
 
 ## INDICE
 
-- [Hola Mundo](Python/Hola_Mundo.md) 
+- [Hola Mundo](Hola_Mundo.md) 
 
-- [Operaciones basicas](Python/Operaciones_basicas.md)
+- [Operaciones basicas](Operaciones_basicas.md)
 
-- [If ELSE](Python/IF_ELSE.md)
+- [If ELSE](IF_ELSE.md)
 
-- [Ciclo For](Python/Cicle_FOR.md) 
+- [Ciclo For](Cicle_FOR.md) 
 
-- [While](Python/While.md)
+- [While](While.md)
 
-- [Funcion](Python/Funcion.md)
+- [Funcion](Funcion.md)
 
-- [SWITCH CASE](Python/Switch_Case.md) 
+- [SWITCH CASE](Switch_Case.md) 
