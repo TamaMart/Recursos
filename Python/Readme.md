@@ -2,16 +2,16 @@
 
 ## INDICE
 
-- [Hola_Mundo](Markdown/readme.md) 
+- [Hola_Mundo](Python/Hola_Mundo.md) 
 
-- [Operaciones_basicas](Python/Readme.md)
+- [Operaciones_basicas](Python/Operaciones_basicas.md)
 
-- [If_ELSE](vsCode/README.md)
+- [If_ELSE](Python/IF_ELSE.md)
 
-- [Ciclo_For](Markdown/readme.md) 
+- [Ciclo_For](Python/Cicle_FOR.md) 
 
-- [While](Python/Readme.md)
+- [While](Python/While.md)
 
-- [Funciones](vsCode/README.md)
+- [Funcion](Python/Funcion.md)
 
-- [SWITCH_CASE](Markdown/readme.md) 
+- [SWITCH_CASE](Python/Switch_Case.md) 
