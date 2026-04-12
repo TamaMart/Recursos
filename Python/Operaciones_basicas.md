@@ -4,7 +4,8 @@
 - Decimal es un número con decimales, se acorta como **FLOAT** En este caso, el número es 1.5.
 - Booleano es un valor que puede ser verdadero o falso, se acorta como **BOOL** En este caso, el valor es True.
 
-Variable
+* Ejemplo:
+
 ``` python
 num_1 = 5
 num_2 = 3
