@@ -16,3 +16,30 @@ Los principales son:
    Ejemplos de lenguaje: SQL, HTML.
 
 [![Paradigmasprogramacion](https://img.youtube.com/vi/GehWsIr6oFo/0.jpg)](https://www.youtube.com/watch?v=GehWsIr6oFo)
+
+
+Los lenguajes que hasta ahora hemos estado aprendiendo en clases son:
+
+**Pseint:** 
+
+Paradigma: Imperativo
+- ¿Por qué?:
+  * Se escribe instrucciones paso a paso y en orden secuencial.
+  * Usa estructuras de control clasicas como el *si/sino*,*Mientras*, *Repetir*, *Para*.
+  * El flujo del programa es explicito y lineal.
+
+**Python:**
+
+Paradigma: Multiparadigma (Imperativo, orientado a objetos)
+- ¿Por qué?:
+  * Uso de variebles, bucles **for/while**, condicionales **if/else**.
+  * En Python cada valor que existe pertenese a una clase.
+
+    ```python
+    Texto="hola"
+    print(type(texto))   
+    # <class 'str'>
+    ```
+           
+
+
