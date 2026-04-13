@@ -18,7 +18,7 @@ Los principales son:
 [![Paradigmasprogramacion](https://img.youtube.com/vi/GehWsIr6oFo/0.jpg)](https://www.youtube.com/watch?v=GehWsIr6oFo)
 
 
-Los lenguajes que hasta ahora hemos estado aprendiendo en clases son:
+Los paradigmas que hasta ahora hemos estado aprendiendo en clases son:
 
 **Pseint:** 
 
