@@ -14,4 +14,7 @@
 
 - [Funcion](Funcion.md)
 
-- [SWITCH CASE](Switch_Case.md) 
+- [SWITCH CASE](Switch_Case.md)
+  
+## Ejemplo de codigo POO de una clase en Phyton
+- [POO_GATO.PY](POO_Gato.py)
