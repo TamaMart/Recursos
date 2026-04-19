@@ -1,5 +1,7 @@
 # Creacion de un personaje en Python
 
+[Personaje](Personaje.py)
+
 ```python
 # Atributos: nombre, fuerza, inteligencia, defensa, vida (se le asigna un valor por defecto a cada uno)
 class Personaje:
@@ -27,6 +29,8 @@ mi_personaje = Personaje("Tama", 10, 8, 6, 100)  #Creacion del personaje (objeto
 ```
 
 # Encapsulación
+
+[Personaje encapsulado](personaje_encapsulado.py)
 
 - Encapsulamiento: es una tecnica de programacion orientada a objetos que consiste en ocultar los atributos y metodos de una clase para protegerlos de ser modificados o accedidos directamente desde fuera de la clase. 
 En Python, se puede lograr el encapsulamiento utilizando el doble guion bajo (__) antes del nombre de un atributo o metodo, lo que hace que ese atributo o metodo sea privado y no pueda ser accedido directamente desde fuera de la clase. En este ejemplo, se ha encapsulado los atributos del personaje utilizando el doble guion bajo, lo que significa que esos atributos no pueden ser accedidos directamente desde fuera de la clase, sino que solo pueden ser accedidos a través de los metodos de la clase.
