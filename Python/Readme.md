@@ -19,6 +19,6 @@
 - [Practica](Practica)
   
 ## Ejemplo de codigo POO de una clase en Phyton
-- [POO_GATO.PY](POO_Gato.py)
-- [Personaje.py](personaje.py)
+- [POO_GATO](POO_Gato.py)
+- [Personaje](personaje.py)
 - [Personaje Encapsulado](personaje_encapsulado.py)
