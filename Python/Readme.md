@@ -20,3 +20,5 @@
   
 ## Ejemplo de codigo POO de una clase en Phyton
 - [POO_GATO.PY](POO_Gato.py)
+- [Personaje.py](personaje.py)
+- [Personaje Encapsulado](personaje_encapsulado.py)
