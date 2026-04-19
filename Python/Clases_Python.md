@@ -12,6 +12,7 @@ class Personaje:
 Para darle un valor a los atributos, se utiliza el metodo **__init__ (constructor)**  que se ejecuta automaticamente al crear un objeto de la clase.
 **Self** es un argumento que hacer referencia al objeto que se esta creando, es decir, al personaje que se esta creando. 
 Es necesario para acceder a los atributos y metodos de la clase.
+Un **método** en Python es una función que pertenece a un objeto o a una clase. Se llama usando un punto (.) después del objeto.
 
 ```python
     def __init__(self,nombre,fuerza,inteligencia,defensa,vida):
