@@ -53,8 +53,11 @@ def set_fuerza(self, fuerza): # este metodo se encarga de modificar el valor de 
 # Herencia
 
 ¿Por qué cuando se crea la clase guerrero al inicio heredando de la clase personaje genera error el código?
+
 - Se necesita inicializar los atributos de personaje
+  
 ¿Cuándo en el video se menciona la super clase a que se refiere?
+
 - Super clase: constructor de la clases de la que hereda
 - La funcion super () permite llamar a los atributos y metodos de la supoer clase sin tener que escribirla directamente 
 
