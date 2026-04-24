@@ -22,3 +22,4 @@
 - [POO_GATO](POO_Gato.py)
 - [Personaje](Personaje.py)
 - [Personaje Encapsulado](personaje_encapsulado.py)
+- [Creacion de personaje](Clases_Python.md)
