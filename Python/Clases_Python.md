@@ -115,8 +115,10 @@ En el método daño(self, enemigo), ¿que deberíamos hacer en el caso de que la
 
  ```
 
-       
+# Proyecto Final
 
+
+El proyecto es una simulación de trabajadores, donde cada uno tiene dinero, energía y un tipo de trabajo. Puedes hacerlos trabajar, vender productos y descansar.
 
 
 
