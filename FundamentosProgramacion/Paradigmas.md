@@ -32,8 +32,7 @@ Paradigma: Imperativo
 
 Paradigma: Multiparadigma (Imperativo, orientado a objetos)
 - ¿Por qué?:
-  * Uso de variebles, bucles **for/while**, condicionales **if/else**.
-  * En Python cada valor que existe pertenese a una clase.
+  * Python es un lenguaje de programación multiparadigma. Esto significa que más que forzar a los programadores a adoptar un estilo particular de programación, permite varios estilos: programación orientada a objetos, programación imperativa y programación funcional.
 
     ```python
     Texto="hola"
