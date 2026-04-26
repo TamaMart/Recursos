@@ -1,6 +1,6 @@
 # Creacion de un personaje en Python
 
-[Personaje](Personaje.py)
+[Personaje](Practica/Personaje.py)
 
 ```python
 # Atributos: nombre, fuerza, inteligencia, defensa, vida (se le asigna un valor por defecto a cada uno)
@@ -30,7 +30,7 @@ mi_personaje = Personaje("Tama", 10, 8, 6, 100)  #Creacion del personaje (objeto
 
 # Encapsulación
 
-[Personaje encapsulado](personaje_encapsulado.py)
+[Personaje encapsulado](Practica/personaje_encapsulado.py)
 
 - Encapsulamiento: es una tecnica de programacion orientada a objetos que consiste en ocultar los atributos y metodos de una clase para protegerlos de ser modificados o accedidos directamente desde fuera de la clase. 
 En Python, se puede lograr el encapsulamiento utilizando el doble guion bajo (__) antes del nombre de un atributo o metodo, lo que hace que ese atributo o metodo sea privado y no pueda ser accedido directamente desde fuera de la clase. En este ejemplo, se ha encapsulado los atributos del personaje utilizando el doble guion bajo, lo que significa que esos atributos no pueden ser accedidos directamente desde fuera de la clase, sino que solo pueden ser accedidos a través de los metodos de la clase.
@@ -53,6 +53,7 @@ def set_fuerza(self, fuerza): # este metodo se encarga de modificar el valor de 
 # Herencia
 
 [Personaje herencia](Practica/Personaje_herencia.py)
+
 ¿Por qué cuando se crea la clase guerrero al inicio heredando de la clase personaje genera error el código?
 
 - Porque se necesita inicializar los atributos de personaje
@@ -90,6 +91,8 @@ class Guerrero(Personaje):  # la clase Guerrero hereda de la clase Personaje, lo
   ```
 
 # Polimorfismo
+
+[Personaje polimorfismo](Practica/personaje_polimorfismo.py)
 
 Aplicado a la programación hace referencia a que los objetos pueden tomar diferentes formas. Significa que objetos de diferentes clases pueden ser accedidos utilizando el mismo método, mostrando un comportamiento distinto según cómo sean accedidos.
 
