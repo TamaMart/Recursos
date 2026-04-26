@@ -52,7 +52,7 @@ def set_fuerza(self, fuerza): # este metodo se encarga de modificar el valor de 
 
 # Herencia
 
-[Personaje herencia](personaje_herencia.py)
+[Personaje herencia](Practica/Personaje_herencia.py)
 ¿Por qué cuando se crea la clase guerrero al inicio heredando de la clase personaje genera error el código?
 
 - Porque se necesita inicializar los atributos de personaje
