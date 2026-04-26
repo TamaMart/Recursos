@@ -117,12 +117,44 @@ En el método daño(self, enemigo), ¿que deberíamos hacer en el caso de que la
 
 # Proyecto Final
 
+[Clase Trabajadora](PROYECTOFINAL_CLASETRABAJADORA.py)
 
 El proyecto es una simulación de trabajadores, donde cada uno tiene dinero, energía y un tipo de trabajo. Puedes hacerlos trabajar, vender productos y descansar.
 
+Tiene 4 atributos:
 
+**nombre** : público -  Nombre del trabajador
 
+**__dinero** : privado - Dinero acumulado (protegido con __)
 
+**energia** : público - Energía disponible (máximo 100)
+
+**trabajo** :  público - Tipo de trabajo que realiza
+
+Los métodos: 
+
+**atributos()** → muestra el estado actual del trabajador en pantalla.
+
+**trabajar()** → pide cuántas horas trabajó, suma dinero y resta energía
+
+**ganancias()** → pide cuántos productos vendió y suma dinero
+
+**descansar()** → pide cuántas horas durmió y recupera energía
+
+**get_dinero()** → getter, permite ver el dinero privado desde fuera.
+
+**set_dinero()**  → setter, permite cambiar el dinero solo si el valor es mayor a 0.
+
+Las 3 instancias:
+
+Al final se crean tres trabajadores distintos y se llaman todos sus métodos:
+``` python     
+pythontrabajador("Jorge", 100, 100, "agricultor")   # empieza con $50
+
+trabajador("Simon", 100, 100, "pastelero")    # empieza con $500
+
+trabajador("Maria", 100, 100, "empresaria")   # empieza con $5000
+```     
 
 
 
