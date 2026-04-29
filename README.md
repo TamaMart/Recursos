@@ -10,3 +10,5 @@ Recursos de aprendizaje en tecnología
 - [Recursos vsCode](vsCode/README.md)
 
 - [Fundamentos de Programacion](FundamentosProgramacion/README.md)
+
+- [Recursos Mermaid](Mermaid/readme.md) 
