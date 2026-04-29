@@ -11,4 +11,4 @@ Recursos de aprendizaje en tecnología
 
 - [Fundamentos de Programacion](FundamentosProgramacion/README.md)
 
-- [Recursos Mermaid](Mermaid/readme.md) 
+- [Recursos Mermaid](Mermaid/README.md) 
