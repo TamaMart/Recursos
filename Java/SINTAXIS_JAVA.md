@@ -109,6 +109,17 @@ public class Main {
 
 ```
 
+## Modulos
+¿Para qué se usan los módulos en Java?
+
+Los módulos sirven para organizar y reutilizar código. En lugar de escribir todo en un solo archivo, puedes separar el código en partes más pequeñas y ordenadas.
+
+¿Qué es el comando javac?
+
+javac significa Java Compiler y es el compilador de Java. Su función es traducir tu código escrito en Java (.java) a un lenguaje que la computadora puede entender llamado bytecode (.class).
+
+
+
 
 
 
