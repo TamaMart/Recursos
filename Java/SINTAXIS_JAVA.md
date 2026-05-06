@@ -61,3 +61,54 @@ public class Main {
         System.out.println(jugadores.get (7))   ;// imprimimos el valor asociado a la clave 7, que es "Cristiano Ronaldo"
 
 ```
+
+# Hashmap
+
+¿Qué es un HashMap?
+
+Un HashMap es una estructura de datos que almacena información en pares clave → valor, como un diccionario. Permite buscar, agregar y eliminar datos de forma muy rápida.
+
+¿Para qué se utiliza?
+
+- Guardar datos asociados, por ejemplo: nombre del estudiante → nota
+- Buscar información rápidamente sin recorrer toda una lista
+- Contar ocurrencias de elementos
+
+cómo se importa? 
+
+ Utilizamos: 
+ ```java
+ import java.util.HashMap; // importamos la clase HashMap para poder utilizarla en nuestro programa
+```
+
+Ejemplo de codigo:
+
+```java
+
+import java.util.HashMap;
+
+public class Main {
+    public static void main(String[] args) {
+
+        HashMap<String, Integer> notas = new HashMap<>();
+
+        // Agregar datos
+        notas.put("Tamara", 95);
+        notas.put("Carlos", 80);
+        notas.put("María", 70);
+
+        // Obtener un valor
+        System.out.println(notas.get("Tamara")); // → 95
+
+        // Recorrer el HashMap
+        for (String nombre : notas.keySet()) {
+            System.out.println(nombre + ": " + notas.get(nombre));
+        }
+    }
+}
+
+```
+
+
+
+
