@@ -1,47 +1,43 @@
 # Diagrama de flujo clase trabajadora
 
-```mermaid
+
+``` mermaid
+
 flowchart TD
+    A([Inicio]) --> B
 
-A[Inicio] --> B[Crear trabajador Jorge]
-B --> C[Set dinero a 50]
-C --> D[Mostrar atributos]
+    B["__init__(nombre, dinero, energia, trabajo)
+    Inicializa atributos del objeto"]
 
-D --> E[Trabajar]
-E --> F[Ingresar horas trabajadas]
-F --> G[Actualizar dinero y energia]
+    B --> C["set_dinero(nuevo_dinero)
+    Setter: valida y modifica __dinero"]
 
-G --> H{Energia menor o igual a 0}
-H -- Si --> I[Energia = 0 y mensaje descansar]
-H -- No --> J[Mostrar energia restante]
+    C --> D{nuevo_dinero mayor a 0}
+    D -- Si --> E[Actualiza __dinero]
+    D -- No --> F[Muestra mensaje de error]
+    E --> G
+    F --> G
 
-I --> K[Ganancias]
-J --> K
+    G["atributos()
+    Muestra nombre, dinero, energia y trabajo"]
 
-K --> L[Ingresar productos vendidos]
-L --> M[Actualizar dinero]
+    G --> H["trabajar()
+    Ingresa horas, suma dinero, resta energia"]
 
-M --> N[Descansar]
-N --> O[Ingresar horas descanso]
-O --> P[Recuperar energia]
+    H --> I{energia menor o igual a 0}
+    I -- Si --> J[Energia = 0 y avisa al usuario]
+    I -- No --> K[Muestra energia restante]
+    J --> L
+    K --> L
 
-P --> Q{Energia mayor a 100}
-Q -- Si --> R[Energia = 100]
-Q -- No --> S[Continuar]
+    L["ganancias()
+    Productos vendidos, suma al dinero"]
 
-R --> T{Energia mayor o igual a 100}
-S --> T
+    L --> M["descansar()
+    Horas de sueno, recupera energia max 100"]
 
-T -- Si --> U[Energia recuperada]
-T -- No --> V[Descansar mas]
+    M --> N["get_dinero()
+    Getter: retorna el valor de __dinero"]
 
-U --> W[Crear trabajador Simon]
-V --> W
-
-W --> X[Set dinero a 500]
-X --> Y[Mostrar atributos]
-
-Y --> Z[Repetir trabajar ganancias descansar]
-
-Z --> AA[Fin]
-```
+    N --> O([Fin])
+    ```
