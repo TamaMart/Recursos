@@ -27,3 +27,20 @@ El "Dato" vs. "Realidad": En la pizarra se propuso usar `FLOAT` con el valor `0.
 
 ![Flowchart](https://github.com/TamaMart/Recursos/blob/main/Imagenes/Martinez_mer.jpeg?raw=true)
 
+
+1. Detección de Error:  Según lo aprendido en el video de cardinalidad
+
+¿para qué tipo de relación se utiliza realmente una tabla intermedia como la que creamos en clase MASCOTA_TUTOR? justifique (máx. 10 líneas)
+
+
+2. Contexto de Negocio: El autor del video menciona que las reglas varían según la organización.
+
+Caso A:  Clínica Veterinaria Hogar: Una mascota solo puede tener un dueño responsable. (Defina la cardinalidad).
+
+- Cardinalidad notación clasica: 1:1, como se indica **una** sola mascota puede tener **un solo  dueño**.
+  
+Caso B: Hotel de Mascotas Premium: Una mascota puede ser retirada por el padre, la madre o un tutor legal (Varios tutores) y un tutor puede tener varias mascotas. (Defina la cardinalidad).
+
+- En este caso la cardinalidad es en notacion de minimos y maximos donde 1..N 
+
+
