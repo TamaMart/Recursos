@@ -14,3 +14,6 @@
 En el ejemplo visto en clases, ¿Por qué es mejor usar FLOAT a cambio de INT en el ingreso del campo edad?,¿por qué ingresar edad en un sistema de base de datos no es recomendable y cual seria una mejor opcion en este caso justifique.
 
 - Cuando se quieren registrar bebés o mascotas es mejor usar float ya que se contabiliza los meses, sim embargo es poco preciso y dificil de interpretar. La mejor forma es guadar fechas de nacimientos y calcular la edad exacta cuando se necesite. Asi obtenemos años, meses, y dias con precisión
+
+## Tabla ejemplo
+!
