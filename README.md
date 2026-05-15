@@ -13,7 +13,7 @@ Recursos de aprendizaje en tecnología
 
 - [Recursos Mermaid](Mermaid/README.md)
 
-- [Base de datos](DATABASE/README.MD)
+- [Base de datos](DATABASE/README.md)
 
 - [Diagrams](Diagrams/README.md) 
 
