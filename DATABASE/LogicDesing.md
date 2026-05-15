@@ -16,4 +16,10 @@ En el ejemplo visto en clases, ¿Por qué es mejor usar FLOAT a cambio de INT en
 - Cuando se quieren registrar bebés o mascotas es mejor usar float ya que se contabiliza los meses, sim embargo es poco preciso y dificil de interpretar. La mejor forma es guadar fechas de nacimientos y calcular la edad exacta cuando se necesite. Asi obtenemos años, meses, y dias con precisión
 
 ## Tabla ejemplo
-!
+
+![tabla](https://github.com/TamaMart/Recursos/blob/main/Imagenes/Martinez_tabla.jpeg?raw=true)
+
+## MER ejemplo
+
+![Flowchart](https://github.com/TamaMart/Recursos/blob/main/Imagenes/Martinez_tamara_flowchart_clase_trabajadora.png.png?raw=true)
+
