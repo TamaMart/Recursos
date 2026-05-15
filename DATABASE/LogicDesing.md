@@ -21,5 +21,5 @@ En el ejemplo visto en clases, ¿Por qué es mejor usar FLOAT a cambio de INT en
 
 ## MER ejemplo
 
-![Flowchart](https://github.com/TamaMart/Recursos/blob/main/Imagenes/Martinez_tamara_flowchart_clase_trabajadora.png.png?raw=true)
+![Flowchart](https://github.com/TamaMart/Recursos/blob/main/Imagenes/Martinez_mer.jpeg?raw=true)
 
