@@ -30,7 +30,12 @@ El "Dato" vs. "Realidad": En la pizarra se propuso usar `FLOAT` con el valor `0.
 
 1. Detección de Error:  Según lo aprendido en el video de cardinalidad
 
-¿para qué tipo de relación se utiliza realmente una tabla intermedia como la que creamos en clase MASCOTA_TUTOR? justifique (máx. 10 líneas)
+¿para qué tipo de relación se utiliza realmente una tabla intermedia como la que creamos en clase MASCOTA_TUTOR? 
+
+-  La tabla intermedia se utiliza únicamente en las relaciones Muchos a Muchos (N:M).
+
+- ¿Por qué solo en N:M?
+Porque en una relación N:M es imposible representar la relación directamente entre dos tablas sin repetir datos o perder información.
 
 
 2. Contexto de Negocio: El autor del video menciona que las reglas varían según la organización.
