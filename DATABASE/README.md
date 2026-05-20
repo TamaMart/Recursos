@@ -1,7 +1,7 @@
 # Indice 
 
-[Logic Desing](LogicDesing.md)
+* [Logic Desing](LogicDesing.md)
 
-[CARDINALITY](Cardinality.md)
+* [CARDINALITY](Cardinality.md)
 
-[DataType](DataType.md)
+* [DataType](DataType.md)
