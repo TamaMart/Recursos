@@ -4,7 +4,7 @@
 
 Trabajo realizado por Alvaro Neira y Tamara Martinez
 
-## Imagen del Ejecicio como boceto
+## Imagen del ejercicio como boceto
 
 
 
