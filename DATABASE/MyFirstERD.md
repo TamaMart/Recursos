@@ -1,4 +1,4 @@
-# Actividad 2 diseño de Base de datos
+# Actividad 2: Diseño de Base de datos
 
 ## Creación de base de datos de una libreria
 
