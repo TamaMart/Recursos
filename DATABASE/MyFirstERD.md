@@ -13,8 +13,9 @@ Trabajo realizado por Alvaro Neira y Tamara Martinez
 ## Preguntas :
 
 - ¿Que formas normales uso y por que?
-R:
-   0 FN: Comenzamos con todos los datos mezclados en una sola tabla sin organizar.
+
+
+  R: 0 FN: Comenzamos con todos los datos mezclados en una sola tabla sin organizar.
   
    1 FN: Eliminamos grupos repetitivos, separamos cada libro en su propia fila, de modo que cada celda tuviera un solo valor.
   
