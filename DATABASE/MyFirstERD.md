@@ -37,12 +37,13 @@ TABLAS
   
 
 R: Normalizar la tabla a 3FN, ya que primero teniamos que normalizarla a 2FN y ademas teniamos que evitar que los atributos no principales dependan transitivamente del atributo clave.
+Tambien identificar las relaciones entre los atributos.
 
 
 - ¿Que tablas aún le faltaría a su sistema para producción y por qué?
   
 
-R: Nos faltaria la tabla AUTORES, ya que al buscar un libro solo los categorizamos por Genero.
+R: Nos faltaria la tabla AUTORES, ya que al buscar un libro solo lo categorizamos por genero.
 
 
   
