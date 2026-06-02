@@ -6,6 +6,15 @@ Trabajo realizado por Alvaro Neira y Tamara Martinez
 
 ## Imagen del ejercicio como boceto
 
+NORMALIZACIÓN 3FN Y RELACIONES
+![normalizacion](https://github.com/TamaMart/Recursos/blob/main/Imagenes/normalizacion%203fn.jpg?raw=true)
+
+TABLAS
+
+![TABLA1](https://github.com/TamaMart/Recursos/blob/main/Imagenes/tabla%201%203fn.jpg?raw=true)
+![TABLA2](https://github.com/TamaMart/Recursos/blob/main/Imagenes/tabla%202%203fn.jpg?raw=true)
+
+
 
 
 
